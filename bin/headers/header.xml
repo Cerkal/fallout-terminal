@@ -1,0 +1,23 @@
+<main>
+    <line></line>
+    <line>
+        <center>ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM</center>
+    </line>
+    <line>
+        <center>COPYRIGHT 2075-2077 ROBCO INDUSTRIES</center>
+    </line>
+    <line>
+        <center>-Server 1-</center>
+    </line>
+    <line></line>
+    <line></line>
+    <line>
+        <underline>{{name}}, Application Developer</underline>
+    </line>
+    <line>username: {{username}}</line>
+    <line>homedir: {{homedir}}</line>
+    <line>shell: {{shell}}</line>
+    <line>uid: {{uid}}</line>
+    <line>gid: {{gid}}</line>
+    <line></line>
+</main>
