@@ -17,5 +17,5 @@ else
 	mkdir $DIR
 fi
 
-echo 'moving files to isntallation path...'
+echo 'moving files to installation path...'
 mv $PWD $DIR
